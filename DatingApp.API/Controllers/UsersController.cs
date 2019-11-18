@@ -28,7 +28,7 @@ namespace DatingApp.API.Controllers
 
             var usersToreturn = _mapper.Map<IEnumerable<UserForListDto>>(users);
 
-            return Ok(users);
+            return Ok(usersToreturn);
         }
 
         [HttpGet("{id}")]
