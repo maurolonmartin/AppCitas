@@ -2301,11 +2301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\mauro\\Proyectos\\DatingApp.API\\DatingApp.API.csproj",
+      "projectUniqueName": "C:\\Users\\mauro\\Proyectos\\DatingApp.API\\DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "c:\\Users\\mauro\\Proyectos\\DatingApp.API\\DatingApp.API.csproj",
+      "projectPath": "C:\\Users\\mauro\\Proyectos\\DatingApp.API\\DatingApp.API.csproj",
       "packagesPath": "C:\\Users\\mauro\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\mauro\\Proyectos\\DatingApp.API\\obj\\",
+      "outputPath": "C:\\Users\\mauro\\Proyectos\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mauro\\AppData\\Roaming\\NuGet\\NuGet.Config"
